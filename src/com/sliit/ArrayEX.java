@@ -53,6 +53,7 @@ public class ArrayEX {
         for (int r = 0; r < arrNewNew.length; r++) {
             arrNew[r] = arrNewNew[r];
         }
+        lengthArr++;
     }
 
     public int searchForNumber(int number) {
